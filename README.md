@@ -5,7 +5,7 @@ NOW WE HAVE OUR OWN [WIKI](https://github.com/enexis1337/DIY-Flipper-PCB/wiki). 
 
 This PCB works well with this [firmware](https://github.com/enexis1337/unleashed-cgu6)
 
-![pcb img](images/PCBPhoto.png)
+![pcb img](https://github.com/user-attachments/assets/de63c434-a554-41b8-9951-bf89f8675d68)
 
 This project is an open-source, DIY-friendly replacement PCB for the Flipper Zero. It is designed to be **fully compatible** with the original Flipper Zero housing without any modifications to the plastic shell. Whether you are building from scratch or repairing a device, this board brings the full suite of Flipper capabilities to a custom PCB.
 
